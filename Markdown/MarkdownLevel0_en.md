@@ -51,7 +51,7 @@ table_col_1 | table_col_2 | table_col_3
 
 # Links
 [link_name](http://link_adress) as `[link_name](http://link_adress)`<br/>
-[link_in_folder_to_help.md](./HELP.md) as `[link_infolder_to_help.md](./HELP.md)` <br/>
+[link_in_folder_to_README.md](./README.md) as `[link_infolder_to_README.md](./README.md)` <br/>
 ![](https://github.githubassets.com/images/modules/logos_page/Octocat.png) </br> as `![link_to_img_or_can_be_blank](http://img_link_adress)`<br/>
 
 > `> quote <br/>`</br>
