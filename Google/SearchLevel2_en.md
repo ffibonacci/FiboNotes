@@ -23,7 +23,7 @@
 ##### To search in real time
 `search this text &tbs=qdr:1`
 ##### To set date range
-`searchi this text daterange:2457024-2457205`
+`search this text daterange:2457024-2457205`
 <br /> Use it to translate date: http://www.onlineconversion.com/julian_date.htm
 #### Search in different countries
 `search this in gl=GE`, where GE is Germany
