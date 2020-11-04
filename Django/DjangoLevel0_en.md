@@ -1,5 +1,3 @@
-# Django-guide
-
 ## Create Django Project
 ```django-admin.py startproject project_name```
 #### Create superuser for Admin panel
