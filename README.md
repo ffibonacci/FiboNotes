@@ -4,6 +4,7 @@
 - [Google поиск](./Google/SearchLevel2.md)
 - [Django](./Django/DjangoLevel0.md)
 - [Markdown](./Markdown/MarkdownLevel0.md)
+- [Аббревиатуры, методы и алгоритмы](./Definitions_and_Algorithms/Definitions_and_Algorithms.md)
 
 ## English
 - [Google Search](./Google/SearchLevel2_en.md)
