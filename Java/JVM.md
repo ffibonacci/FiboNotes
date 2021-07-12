@@ -324,6 +324,6 @@ ___
 
 Источники:
 
-[JPoint: Никита Липский, Владимир Иванов — JVM: краткий курс общей анатомии](https://www.youtube.com/watch?v=-fcj6EL9rc4&list=WL&index=1)
+[JPoint: Никита Липский, Владимир Иванов — JVM: краткий курс общей анатомии](https://www.youtube.com/watch?v=-fcj6EL9rc4)
 
 [Сборка мусора в Java: что это такое и как работает в JVM](https://nuancesprog.ru/p/12392/)
